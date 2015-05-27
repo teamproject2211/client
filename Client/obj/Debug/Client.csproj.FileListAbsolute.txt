@@ -1,0 +1,64 @@
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\bin\Debug\Client.exe.config
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\bin\Debug\Client.exe
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\bin\Debug\Client.pdb
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\MainWindow.baml
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\MainWindow.g.cs
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\App.g.cs
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client_MarkupCompile.cache
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.g.resources
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.Properties.Resources.resources
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.exe
+d:\Profiles\07047\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.pdb
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\bin\Debug\Client.exe.config
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\Client.exe
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\Client.pdb
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\bin\Debug\Client.exe
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\bin\Debug\Client.pdb
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\MainWindow.baml
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\MainWindow.g.cs
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\App.g.cs
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\Client_MarkupCompile.cache
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\Client.g.resources
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\Client.Properties.Resources.resources
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\18.05.2015\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\Client\Client\bin\Debug\Client.exe.config
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\Client\Client\obj\Debug\Client.exe
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\Client\Client\obj\Debug\Client.pdb
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\bin\Debug\Client.exe.config
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\Client.exe
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\Client.pdb
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\bin\Debug\Client.exe
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\bin\Debug\Client.pdb
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\MainWindow.baml
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\MainWindow.g.cs
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\App.g.cs
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\Client_MarkupCompile.cache
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\Client.g.resources
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\Client.Properties.Resources.resources
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\LoginWindow.baml
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\19052915\TeamProject\Client\Client\obj\Debug\LoginWindow.g.cs
+d:\Profiles\06698\Desktop\Client\Client\bin\Debug\Client.exe.config
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\Client.exe
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\Client.pdb
+d:\Profiles\06698\Desktop\Client\Client\bin\Debug\Client.exe
+d:\Profiles\06698\Desktop\Client\Client\bin\Debug\Client.pdb
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\LoginWindow.baml
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\MainWindow.baml
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\LoginWindow.g.cs
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\MainWindow.g.cs
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\App.g.cs
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\Client_MarkupCompile.cache
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\Client.g.resources
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+d:\Profiles\06698\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+d:\Profiles\06711\Desktop\РаджабБерезнайКлиент\Client\Client\bin\Debug\Client.exe.config
+d:\Profiles\06711\Desktop\РаджабБерезнайКлиент\Client\Client\obj\Debug\Client.exe
+d:\Profiles\06711\Desktop\РаджабБерезнайКлиент\Client\Client\obj\Debug\Client.pdb
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\20052015\РаджабБерезнайКлиент\Client\Client\bin\Debug\Client.exe.config
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\20052015\РаджабБерезнайКлиент\Client\Client\obj\Debug\Client.exe
+\\SERVER2\Exchange\22 поток\СТ\СП-2211\TeamProject\20052015\РаджабБерезнайКлиент\Client\Client\obj\Debug\Client.pdb
